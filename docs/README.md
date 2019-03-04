@@ -1,4 +1,4 @@
-### 直达链接
+### 优秀前端文章翻译
 
 [1.初学者指南：理解JavaScript闭包](./1.A-Beginner-Guide-to-Understanding-JavaScript-Closures.html)
 
